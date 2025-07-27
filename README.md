@@ -39,6 +39,11 @@ The extension will load and become active in your browser.
 
 [Short explanation or link to documentation]
 
+## Demo Video
+
+Watch this video to see the extension in action:  
+[![Watch the demo](https://img.youtube.com/vi/D8ohDXuG5iE/0.jpg)](https://youtu.be/D8ohDXuG5iE)
+
 
 ---
 
