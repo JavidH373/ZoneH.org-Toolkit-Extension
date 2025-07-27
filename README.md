@@ -43,10 +43,15 @@ The extension will load and become active in your browser.
 
 Watch this video to see the extension in action:  
 [![Watch the demo](https://img.youtube.com/vi/D8ohDXuG5iE/0.jpg)](https://youtu.be/D8ohDXuG5iE)
-س
+
 
 
 ---
+
+Additional Links:
+📱 Telegram Channel: [H373_Team](https://t.me/H373_Team)
+
+
 
 ## License
 
