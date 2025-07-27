@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "Zone-H Toolkit",
+  "version": "1.0",
+  "description": "Coded By JavidH373 | t.me/H373_Team",
+  "permissions": [],
+  "host_permissions": [
+    "https://www.zone-h.org/*",
+    "http://www.zone-h.org/*",
+    "https://zone-h.org/*",
+    "http://zone-h.org/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.zone-h.org/*",
+        "http://www.zone-h.org/*",
+        "https://zone-h.org/*",
+        "http://zone-h.org/*"
+      ],
+      "js": ["content.js"],
+	  "run_at": "document_start"
+    }
+  ],
+  "icons": {
+    "48": "ICO.png"
+  }
+}
